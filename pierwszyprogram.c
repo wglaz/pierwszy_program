@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main(void){
 
-	puts("ala ma kota");
+	puts("Ala ma kota,\na kot ma Ale\n");
 
 }
